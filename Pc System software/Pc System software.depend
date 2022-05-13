@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1616752954 source:c:\users\basanta\desktop\mysoftware\pc system software\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1616757908 source:c:\users\basanta\desktop\pc system software\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1617081956 source:c:\users\basanta\desktop\c++ projects\pc system software\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<cmath>
+	<cstring>
+	<windows.h>
+	<conio.h>
+	<windows.h>
+

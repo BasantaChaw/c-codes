@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618155799 source:c:\users\basanta\desktop\c++\scientific calculator\main.cpp
+	<iostream>
+	<iostream>
+	<conio.h>
+	<cmath>
+	<cstring>
+
+1618220956 source:c:\users\basanta\desktop\c++ projects\scientific calculator\main.cpp
+	<iostream>
+	<iostream>
+	<conio.h>
+	<cmath>
+	<cstring>
+
